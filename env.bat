@@ -1,0 +1,1 @@
+call Hin2vec/Scripts/activate.bat
